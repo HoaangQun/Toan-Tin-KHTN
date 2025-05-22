@@ -16,7 +16,4 @@
 - Phương trình dao động điều hòa có dạng:
 $$x = Acos(\omega t + \varphi)$$
 - *Trong đó*: 
-> $x$ *là li độ* 
-$A$ *là biên độ*
-$\varphi$ *là pha ban đầu*
-$\omega t + \varphi$ *là pha dao động ở thời điểm* $t$
+> $x$ *là li độ*<br>$A$ *là biên độ*<br>$\varphi$ *là pha ban đầu*<br>$\omega t + \varphi$ *là pha dao động ở thời điểm* $t$
