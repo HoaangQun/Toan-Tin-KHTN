@@ -27,6 +27,6 @@ Tuy nhiên việc viết hai phương trình riêng lẻ là dài dòng và khô
 $$\text{N}_2\text{O}_4(g) \xrightleftharpoons[]{} 2\text{NO}_2(g)$$
 - #### $\xrightleftharpoons[]{}\;$ là kí hiệu của phản ứng hai chiều
 - **Ví dụ 1.4** Một số phản ứng thuận nghịch:
-$$\text{N}_2(g) + 3\text{H}_2(g)\xrightleftharpoons[]{} 2\text{NH}_3(g)$$$$text{H}_2(g) + \text{I}_2(g)\xrightleftharpoons[]{}2\text{HI}(g)$$$$2\text{SO}_2(g) + \text{O}_2(g)\xrightleftharpoons[]{}2\text{SO}_3$$$$\text{CO}_2(g) + 3\text{H}_2(g)\xrightleftharpoons[]{}\text{CH}_3\text{OH}(g) + \text{H}_2\text{O}(g)$$
+$$\text{N}_2(g) + 3\text{H}_2(g)\xrightleftharpoons[]{} 2\text{NH}_3(g)$$ $$text{H}_2(g) + \text{I}_2(g)\xrightleftharpoons[]{}2\text{HI}(g)$$ $$2\text{SO}_2(g) + \text{O}_2(g)\xrightleftharpoons[]{}2\text{SO}_3$$ $$\text{CO}_2(g) + 3\text{H}_2(g)\xrightleftharpoons[]{}\text{CH}_3\text{OH}(g) + \text{H}_2\text{O}(g)$$
 - <span style="color:#c40000">Chú ý phân biệt</span> : phản ứng hoàn toàn có mũi tên một chiều ( $\longrightarrow$ ) còn phản ứng thuận nghịch có mũi tên hai chiều ( $\xrightleftharpoons[]{}$ )
 ### 2. Chiều của phản ứng thuận nghịch
